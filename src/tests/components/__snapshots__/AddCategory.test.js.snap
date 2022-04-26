@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <AddCategory /> debe retornar el componente con sus valores de prueba 1`] = `
+<DocumentFragment>
+  <form>
+    <input
+      type="text"
+      value=""
+    />
+  </form>
+</DocumentFragment>
+`;
